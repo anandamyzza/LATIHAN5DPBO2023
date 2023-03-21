@@ -10,7 +10,8 @@ Download this starter project: [starter project](https://drive.google.com/file/d
 * Tambahkan permintaan konfirmasi sebelum delete
 * Build project (generate .jar file)
 
-Result:
+Hasil yang diharapkan:
+
 ![image](https://user-images.githubusercontent.com/100767177/226620357-f07ff521-b842-429b-b1e3-0098e4363c43.png)
 
 ## Desain Program
