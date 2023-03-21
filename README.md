@@ -2,7 +2,7 @@
 Saya Ananda Myzza Marhelio NIM 2100702 mengerjakan soal Latihan 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Deskripsi Tugas Latihan 5 DPBO 2023
-Download this starter project: [starter project](https://drive.google.com/file/d/1TEnEay74nhGcSS9PPzQcxksIlaQhTiZ2/view?usp=sharing)
+Link download [starter project](https://drive.google.com/file/d/1TEnEay74nhGcSS9PPzQcxksIlaQhTiZ2/view?usp=sharing)
 
 * Tambahkan lebih banyak properti (component type: apa saja, selain text field)
 * Tambahkan metode untuk reset form
